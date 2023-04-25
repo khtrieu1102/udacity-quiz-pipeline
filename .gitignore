@@ -2,6 +2,8 @@
 
 ###### both reactnd-contacts-complete and reactnd-contacts-server
 # dependencies
+reactnd-contacts-complete/node_modules
+reactnd-contacts-server/node_modules
 node_modules
 # misc
 .DS_Store
